@@ -8,10 +8,8 @@ int playerY = 4;
 // Obstacle variables
 int obstacleX = 7;
 int obstacleY = random(0, 8);
-
 // Score
 int score = 0;
-
 // Buzzer pin
 const int buzzer = 3;
 
@@ -44,8 +42,7 @@ void loop() {
     delay(1000);
     resetGame();
   }
-
-  // Move obstacle left
+ // Move obstacle left
   obstacleX--;
   if (obstacleX < 0) {
     obstacleX = 7;
