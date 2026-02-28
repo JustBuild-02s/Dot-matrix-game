@@ -25,3 +25,7 @@ USB Cable
 | VRx      | A0      |
 | VRy      | A1      |
 | SW       | 2       |
+
+
+## Project Demo 🎥
+[![Watch the video](https://img.youtube.com/vi/XYjMUAVtGCQ/0.jpg)](https://www.youtube.com/watch?v=XYjMUAVtGCQ)
