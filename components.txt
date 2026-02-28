@@ -1,6 +1,0 @@
-Arduino Uno
-8x8 LED Dot Matrix (MAX7219)
-Joystick Module
-Breadboard
-Jumper Wires
-USB Cable
